@@ -1,4 +1,4 @@
-### Hi there, I'm  [Kawsar Mahmud][website] 👋
+### Hi there, I'm  [Kawser Ahmed][website] 👋
 #### - MERN Stack Developer
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - ⚡ Learning Web Tech 😎😎
