@@ -3,12 +3,12 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - ⚡ Learning Web Tech 😎😎
 - 💻 Always curious about new technology 🤩🤩
-- 🥅 2022 Goals: React Native, Node Js, Next Js
+- 🥅 2023 Goals: React Native, Node Js, Next Js
 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kawser00/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/kawsar.mahmud00) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kawser.mahmud00) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@kawser00) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14325277/kawsar-mahmud)
 
