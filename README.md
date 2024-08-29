@@ -3,7 +3,6 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - ⚡ Learning Web Tech 😎😎
 - 💻 Always curious about new technology 🤩🤩
-- 🥅 2023 Goals: React Native, Node Js, Next Js
 
 ### Connect with me:
 
